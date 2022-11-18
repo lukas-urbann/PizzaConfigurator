@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gWyVAUzRasxcr1kUUgD9I32/ytnpwb4puc9++E+g4zdnighaVEU/J24biIwgGL5/ZkQieIYoBJP0o7ZoyDfBvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukas\\Projekty\\RiderProjects\\PizzaConfigurator\\PizzaConfigurator\\PizzaConfigurator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukas\\.nuget\\packages\\spectre.console\\0.45.0\\spectre.console.0.45.0.nupkg.sha512",
+    "C:\\Users\\lukas\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

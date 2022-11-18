@@ -1,0 +1,17 @@
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\bin\Debug\net6.0\PizzaConfigurator.exe
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\bin\Debug\net6.0\PizzaConfigurator.deps.json
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\bin\Debug\net6.0\PizzaConfigurator.runtimeconfig.json
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\bin\Debug\net6.0\PizzaConfigurator.dll
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\bin\Debug\net6.0\PizzaConfigurator.pdb
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\bin\Debug\net6.0\Spectre.Console.dll
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.csproj.AssemblyReference.cache
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.AssemblyInfoInputs.cache
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.AssemblyInfo.cs
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.csproj.CopyComplete
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.dll
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\refint\PizzaConfigurator.dll
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.pdb
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\PizzaConfigurator.genruntimeconfig.cache
+C:\Users\lukas\Projekty\RiderProjects\PizzaConfigurator\PizzaConfigurator\obj\Debug\net6.0\ref\PizzaConfigurator.dll
